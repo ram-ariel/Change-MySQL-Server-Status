@@ -13,4 +13,7 @@ This code is used to quickly change the status of MySQL service on Windows. Foll
 4_ Right-click on the file, go to Properties, then Compatibility, check 'Run as administrator,' and apply the changes.
 
 Just doubleclick the .exe file when you want to turn MySQL service off/on.
+
 That's it, enjoy!
+
+The code could be shorter, I know. Next time
